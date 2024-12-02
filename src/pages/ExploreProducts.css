@@ -1,0 +1,45 @@
+.product-main {
+  display: flex;
+  position: relative;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.products-container {
+  padding-top: 75px;
+  display: grid;
+  width: 80%;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  place-items: center;
+  gap: 16px;
+  padding-right: 20px;
+}
+.search-bar-container {
+  position: absolute; /* Positions the search bar relative to the page */
+  top: 20px; /* Distance from the top of the page */
+  left: 50%; /* Horizontally center */
+  transform: translateX(-50%); /* Centers the element perfectly */
+  z-index: 100; /* Ensures it appears above other content if overlapping */
+  width: 40%; /* Adjust width as per your preference */
+}
+
+.search-bar {
+  width: 100%; /* Matches the width of the container */
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+
+
+@media (max-width: 800px) {
+  .product-main {
+    justify-content: center;
+    margin-top: 40px;
+  }
+  .products-container {
+    margin-top: 26px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  }
+}

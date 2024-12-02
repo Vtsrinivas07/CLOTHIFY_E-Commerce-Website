@@ -1,0 +1,429 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "title": "Urban Edge Shirt",
+      "category": "men's clothing",
+      "price": 2499,
+      "image": "/Men/Men Shirt.jpg",
+      "description": "Modern meets classic in this sharp-fitting shirt, perfect for professional or party looks.",
+      "selectSize": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "sizeChart": "Refer to the chart for chest and sleeve measurements in inches."
+    },
+    {
+      "id": "3",
+      "title": "Sleek Leather Belt",
+      "category": "women's clothing",
+      "price": 799,
+      "image": "/Women/women belt.jpg",
+      "description": "A minimalist leather belt with a bold buckle for the ultimate statement accessory.",
+      "selectSize": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "sizeChart": "Refer to the chart for belt length based on waist size in centimeters."
+    },
+    {
+      "id": "4",
+      "title": "Trendsetter Denim",
+      "category": "men's clothing",
+      "price": 2199,
+      "image": "/Men/Men Jeans.jpg",
+      "description": "Stay ahead of the style curve with these rugged, fashion-forward denim jeans.",
+      "selectSize": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "sizeChart": "Refer to the chart for waist and inseam measurements in inches."
+    },
+    {
+      "id": "5",
+      "title": "Elegant Flow Blouse",
+      "category": "women's clothing",
+      "price": 1299,
+      "image": "/Women/women blouse.jpg",
+      "description": "Add a touch of elegance to your wardrobe with this flowy, sophisticated blouse.",
+      "selectSize": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "sizeChart": "Refer to the chart for bust and shoulder measurements in centimeters."
+    },
+    {
+      "id": "6",
+      "title": "Everyday Essential Tee",
+      "category": "men's clothing",
+      "price": 799,
+      "image": "/Men/Men T shirt.jpg",
+      "description": "Soft, breathable, and versatile, this tee is your new go-to for casual comfort.",
+      "selectSize": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "sizeChart": "Refer to the chart for chest and sleeve length measurements in inches."
+    },
+    {
+      "id": "7",
+      "title": "Winter Luxe Coat",
+      "category": "women's clothing",
+      "price": 3599,
+      "image": "/Women/women coat.jpg",
+      "description": "Experience warmth and luxury with this beautifully designed winter coat.",
+      "selectSize": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "sizeChart": "Refer to the chart for bust and sleeve length measurements in centimeters."
+    },
+    {
+      "id": "8",
+      "title": "Bold Step Boots",
+      "category": "men's clothing",
+      "price": 2999,
+      "image": "/Men/Men Shoes.jpg",
+      "description": "Step into confidence with these sleek, durable boots made for all-day wear.",
+      "selectSize": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "sizeChart": "Refer to the chart for foot length and width measurements in inches."
+    },
+    {
+      "id": "9",
+      "title": "Trendy Chic Bag",
+      "category": "women's clothing",
+      "price": 1799,
+      "image": "/Women/women handbag.jpg",
+      "description": "Elevate your outfit with this stylish handbag, perfect for all your essentials.",
+      "selectSize": [
+        "One Size"
+      ],
+      "sizeChart": "This product comes in a standard size suitable for all users."
+    },
+    {
+      "id": "10",
+      "title": "Refined Fit Trousers",
+      "category": "men's clothing",
+      "price": 1899,
+      "image": "/Men/Men Trouser.jpg",
+      "description": "Tailored to perfection, these trousers bring a polished look to your wardrobe.",
+      "selectSize": [
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "sizeChart": "Refer to the chart for waist and inseam measurements in inches."
+    },
+    {
+      "id": "11",
+      "title": "Classic Sun Hat",
+      "category": "women's clothing",
+      "price": 999,
+      "image": "/Women/women hat.jpg",
+      "description": "Stay stylish and sun-safe with this versatile wide-brim hat.",
+      "selectSize": [
+        "One Size"
+      ],
+      "sizeChart": "This product is designed to fit most head sizes comfortably."
+    },
+    {
+      "id": "12",
+      "title": "Heritage Leather Belt",
+      "category": "men's clothing",
+      "price": 799,
+      "image": "/Men/Men Belt.jpg",
+      "description": "Crafted for durability and style, this leather belt completes any look.",
+      "selectSize": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "sizeChart": "Refer to the chart for belt length based on waist size in inches."
+    },
+    {
+      "id": "13",
+      "title": "Radiance Pearl Necklace",
+      "category": "women's clothing",
+      "price": 2499,
+      "image": "/Women/women necklace.jpg",
+      "description": "Add timeless charm to your outfit with this stunning pearl necklace.",
+      "selectSize": [
+        "One Size"
+      ],
+      "sizeChart": "This product comes in a standard size suitable for all users."
+    },
+    {
+      "id": "14",
+      "title": "Active Shade Cap",
+      "category": "men's clothing",
+      "price": 499,
+      "image": "/Men/Men Cap.jpg",
+      "description": "Sporty and practical, this cap is a must-have for outdoor adventures.",
+      "selectSize": [
+        "One Size"
+      ],
+      "sizeChart": "This product features an adjustable strap for a custom fit."
+    },
+    {
+      "id": "15",
+      "title": "Elegant Stiletto Heels",
+      "category": "women's clothing",
+      "price": 2199,
+      "image": "/Women/women shoe.jpg",
+      "description": "Step into sophistication with these sleek and stylish high heels.",
+      "selectSize": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "sizeChart": "Refer to the chart for foot length and width measurements in centimeters."
+    },
+    {
+      "id": "16",
+      "title": "Cozy Vibes Hoodie",
+      "category": "men's clothing",
+      "price": 1299,
+      "image": "/Men/Men hoodie.jpg",
+      "description": "Stay warm and trendy with this ultra-comfortable hoodie, perfect for any occasion.",
+      "selectSize": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "sizeChart": "Refer to the chart for chest and sleeve length measurements in inches."
+    },
+    {
+      "id": "17",
+      "title": "Classic Pleats Skirt",
+      "category": "women's clothing",
+      "price": 1499,
+      "image": "/Women/women skirt.jpg",
+      "description": "Refined and versatile, this pleated skirt is a staple for every wardrobe.",
+      "selectSize": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "sizeChart": "Refer to the chart for waist and length measurements in centimeters."
+    },
+    {
+      "id": "18",
+      "title": "Iconic Leather Jacket",
+      "category": "men's clothing",
+      "price": 4999,
+      "image": "/Men/Men Jacket.jpg",
+      "description": "Command attention with this bold leather jacket, a true style icon.",
+      "selectSize": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "sizeChart": "Refer to the chart for chest and sleeve measurements in inches."
+    },
+    {
+      "id": "19",
+      "title": "UV Glam Sunglasses",
+      "category": "women's clothing",
+      "price": 1499,
+      "image": "/Women/women sunglasses.jpg",
+      "description": "Stay stylish and protected with these chic, UV-blocking sunglasses.",
+      "selectSize": [
+        "One Size"
+      ],
+      "sizeChart": "This product is designed to fit most face shapes and sizes comfortably."
+    },
+    {
+      "id": "20",
+      "title": "Classic Polo Vibe",
+      "category": "men's clothing",
+      "price": 999,
+      "image": "/Men/Men Polo T shirt.jpg",
+      "description": "An essential polo with timeless appeal, perfect for relaxed outings.",
+      "selectSize": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "sizeChart": "Refer to the chart for chest and shoulder measurements in inches."
+    },
+    {
+      "id": "21",
+      "title": "Snug Style Sweater",
+      "category": "women's clothing",
+      "price": 1999,
+      "image": "/Women/women sweater.jpg",
+      "description": "Keep cozy and chic with this soft, stylish sweater for colder days.",
+      "selectSize": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "sizeChart": "Refer to the chart for bust and sleeve measurements in centimeters."
+    },
+    {
+      "id": "22",
+      "title": "Retro Aviator Shades",
+      "category": "men's clothing",
+      "price": 1499,
+      "image": "/Men/Men Sunglasses.jpg",
+      "description": "Add a retro edge to your look with these timeless aviator sunglasses.",
+      "selectSize": [
+        "One Size"
+      ],
+      "sizeChart": "This product is designed to fit most face shapes and sizes comfortably."
+    },
+    {
+      "id": "23",
+      "title": "Everyday Style Top",
+      "category": "women's clothing",
+      "price": 999,
+      "image": "/Women/women top.jpg",
+      "description": "Simple yet stylish, this top pairs perfectly with jeans or skirts.",
+      "selectSize": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "sizeChart": "Refer to the chart for bust and shoulder measurements in centimeters."
+    },
+    {
+      "id": "24",
+      "title": "Streetwear Sweatshirt",
+      "category": "men's clothing",
+      "price": 1299,
+      "image": "/Men/Men Sweatshirt.jpg",
+      "description": "Effortlessly cool and comfortable, this sweatshirt is perfect for daily wear.",
+      "selectSize": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "sizeChart": "Refer to the chart for chest and sleeve length measurements in inches."
+    },
+    {
+      "id": "25",
+      "title": "Tailored Chic Trousers",
+      "category": "women's clothing",
+      "price": 1699,
+      "image": "/Women/women trouser.jpg",
+      "description": "Elevate your look with these perfectly tailored and stylish trousers.",
+      "selectSize": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "sizeChart": "Refer to the chart for waist and length measurements in centimeters."
+    },
+    {
+      "id": "26",
+      "title": "Timeless Timepiece",
+      "category": "men's clothing",
+      "price": 3499,
+      "image": "/Men/Men watch.jpg",
+      "description": "Sophistication meets functionality in this classic watch for any occasion.",
+      "selectSize": [
+        "One Size"
+      ],
+      "sizeChart": "This product is designed to fit most wrist sizes with an adjustable strap."
+    },
+    {
+      "id": "27",
+      "title": "Luxe Women's Watch",
+      "category": "women's clothing",
+      "price": 3499,
+      "image": "/Women/women watch.jpg",
+      "description": "A beautiful blend of elegance and practicality in this timeless women's watch.",
+      "selectSize": [
+        "One Size"
+      ],
+      "sizeChart": "This product is designed to fit most wrist sizes with an adjustable strap."
+    },
+    {
+      "id": "28",
+      "title": "Compact Classic Wallet",
+      "category": "men's clothing",
+      "price": 999,
+      "image": "/Men/Men Wallet.png",
+      "description": "Slim yet spacious, this leather wallet keeps essentials in style.",
+      "selectSize": [
+        "One Size"
+      ],
+      "sizeChart": "This product comes in a standard size suitable for all users."
+    },
+    {
+      "id": "29",
+      "title": "Everyday Comfort Shoes",
+      "category": "women's clothing",
+      "price": 1999,
+      "image": "/Women/women casual shoes.jpg",
+      "description": "Perfect for daily wear, these casual shoes combine style with all-day comfort.",
+      "selectSize": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "sizeChart": "Refer to the chart for foot length and width measurements in centimeters."
+    },
+    {
+      "id": "30",
+      "title": "Dynamic Casual Shoes",
+      "category": "men's clothing",
+      "price": 2199,
+      "image": "/Men/Men Casual Shoe.jpg",
+      "description": "Upgrade your footwear collection with these modern and comfortable casual shoes for men.",
+      "selectSize": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "sizeChart": "Refer to the chart for foot length and width measurements in inches."
+    }
+  ]
+}

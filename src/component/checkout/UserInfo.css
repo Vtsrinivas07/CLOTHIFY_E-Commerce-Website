@@ -1,0 +1,132 @@
+/* General User Info Container Styles */
+.user-info_container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.user-info_container input {
+  width: 100%;
+  padding: 12px 10px;
+  font-weight: 500;
+  border: 1px solid #bbb;
+  outline: none;
+  border-radius: 10px;
+}
+
+.user-info_container input:focus {
+  border: 1px solid black;
+}
+
+.user-info_container h3 {
+  font-size: 1.6rem;
+  margin-bottom: 10px;
+}
+
+/* Contact Information Form Styles */
+.contact-info_form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.validate-btn {
+  width: 50%;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s;
+  font-size: 1.4rem;
+  margin-top: 10px;
+}
+
+.validate-btn:hover {
+  background-color: #303030;
+}
+
+/* Shipping Address Styles */
+.shipping-address_wrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+  width: 100%;
+}
+
+#firstname, #lastname, #address, #pincode, #city {
+  width: 100%;
+}
+
+.checkout-btn {
+  width: 100%;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s;
+  font-size: 1.4rem;
+}
+
+.checkout-btn:hover {
+  background-color: #303030;
+}
+
+/* Payment Form Container Styles */
+.payment-form_container {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  max-width: 400px;
+  margin: auto;
+  background-color: #f9f9f9;
+}
+
+.payment-form_container h3 {
+  text-align: center;
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+}
+
+.payment-form_container .form-group {
+  margin-bottom: 15px;
+}
+
+.payment-form_container label {
+  display: block;
+  font-size: 1rem;
+  margin-bottom: 5px;
+}
+
+.payment-form_container input {
+  width: 100%;
+  padding: 12px;
+  font-weight: 500;
+  border: 1px solid #bbb;
+  outline: none;
+  border-radius: 10px;
+}
+
+.payment-form_container input:focus {
+  border: 1px solid black;
+}
+
+.pay-btn {
+  width: 100%;
+  padding: 12px;
+  background-color: black;
+  color: white;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s;
+  font-size: 1.4rem;
+  margin-top: 20px;
+}
+
+.pay-btn:hover {
+  background-color: black;
+}
